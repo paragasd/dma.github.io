@@ -1,6 +1,6 @@
 # Dynamical Modular Architectures for Neuro-Symbolic Reasoning Agents (DMA)
 
-This is the repository that contains source code for the [DMA website](https://dma.github.io).
+This is the repository that contains source code for the [DMA website](https://paragasd.github.io/dma.github.io/).
 
 # BibTeX
 If you find DMA useful for your work please cite:
